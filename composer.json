@@ -1,0 +1,20 @@
+{
+	"description": "Case-based Reasoning",
+	"name": "Case-based Reasoning",
+	"type": "project",
+	"homepage": "https://t.me/Egostigma",
+	"license": "MIT",
+	"require": {
+		"php": "^7.1.3",
+		"phpoffice/phpspreadsheet": "^1.5",
+		"jenssegers/blade": "^1.1",
+		"lonnieezell/codeigniter-forensics": "dev-master"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "^1.6",
+		"phpunit/phpunit": "^7.4"
+	}
+}
